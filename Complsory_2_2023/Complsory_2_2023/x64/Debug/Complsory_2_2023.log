@@ -1,0 +1,3 @@
+﻿  Complsory_2_2023.cpp
+C:\Users\larss\source\repos\Complsory_2_2023\Complsory_2_2023\Complsory_2_2023.cpp(102,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Complsory_2_2023.vcxproj -> C:\Users\larss\source\repos\Complsory_2_2023\x64\Debug\Complsory_2_2023.exe
